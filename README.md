@@ -6,13 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=ff145f&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Pimpale!;" />
 </h1>
 
-<em>I am a 4th Year undergraduate student from Mumbai University. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+<em>I am a Computer Science engineer from Mumbai University. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 
 - **Competitive Programming**
   - C++ ❤️
-  - Python 
+  - Python
+  - Java
 
 <!-- <img align="right" src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Developer.gif"/>  -->
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"  width="430" /> 
@@ -23,7 +24,10 @@
   - Bootstrap
   - Tailwind
   - React with Redux :electron:
+  - NextJs
   - MonogoDB
+  - PostGres
+  - Prisma
   - Express
   - Socket.io
   - NodeJS
